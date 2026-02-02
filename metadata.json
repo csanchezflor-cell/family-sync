@@ -1,0 +1,7 @@
+{
+  "name": "FamilySync - Agenda Familiar Inteligente",
+  "description": "Una aplicación de gestión familiar que transforma notas desordenadas en un calendario estructurado utilizando IA. Permite importar historiales de chat, añadir eventos mediante lenguaje natural y visualizar la agenda de toda la familia.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
